@@ -1,7 +1,0 @@
-"kernelSource": {
-  "name": "MotoG31",
-  "repo": "https://github.com/Swastik369/kernel-mtk",
-  "branch": "Coful",
-  "device": "coful",
-  "defconfig": "arch/arm64/configs/coful_defconfig"
-}
